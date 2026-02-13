@@ -1,0 +1,2 @@
+D:\UNITY\unity project\neocortex-ai-companion\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\UNITY\unity project\neocortex-ai-companion\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
